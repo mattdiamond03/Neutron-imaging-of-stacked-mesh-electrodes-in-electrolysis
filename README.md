@@ -8,3 +8,6 @@ plotter v3.5 generates all the 2d plots
 
 
 plotter 3d generates the 3d plot
+
+
+Table generator generate tables for gasfraction above and below liquid-line
